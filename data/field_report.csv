@@ -1,0 +1,601 @@
+report_row_id,rep_name,store_text,city,week,units
+FR0001,Dimitri Castillo,Brightmart Expreess,El Mirador,2026-W05,167
+FR0002,Felix Osei,PRAIRIE SUPPL CO No 24,El Mirador,2026-W06,348
+FR0003,Priya Kim,valumax #2,Mission Hills,2026-W08,144
+FR0004,Amir Kim,Harbor & Vine W Express,Stonebridge,2026-W03,337
+FR0005,Wendy Ruiz,cornerstone mobile otulet   - canada linda,Los Pinos,2026-W01,21
+FR0006,Jonas Alvarez,Cornerstone Mobile Maret,Fairview,2026-W03,134
+FR0007,Nadia Alvarez,#49,Buena Vista,2026-W07,285
+FR0008,Teresa Dunmore,Praii  re Supply Co #10,Rio Verde,2026-W05,16
+FR0009,Dimitri Brennan,HARBOR & VI  NE WEST CROSSING BIRCHA VENUE,Oakview,2026-W02,416
+FR0010,Teresa Kim,EAST EXPRESS - LA MONT  ANA BRIGHTMART,Alta Loma,2026-W04,474
+FR0011,Amir Whitfield,No 3 - El Nino Prairrie Supply Co,Prairie Bend,2026-W07,48
+FR0012,Felix Osei,Cornerstone Mobile No 43,Palo Seco,2026-W07,423
+FR0013,Marcus Osei,Brightmar South Station,Cedar Falls,2026-W11,402
+FR0014,Jonas Osei,valumaz #4,Los Pinos,2026-W07,310
+FR0015,Sam Lee,"LONESTAR OUTFITTERS SUPERCENTER, LOMA ALTA",Mission Hills,2026-W04,350
+FR0016,Jonas Brennan,Lonestar Outfitters Express,El Mirador,2026-W09,405
+FR0017,Grace Nandy,NorthGate Foods #23 - Rincon Verde Rio Grande Street,Los Pinos,2026-W05,342
+FR0018,Jonas Choudhury,brightmart market - la montana,Valle Hermoso,2026-W06,355
+FR0019,Dana Castillo,Rio Fresh Mkt #29,Nueva Vista,2026-W05,74
+FR0020,Hector Patton,PRAIRIE SUPPLY CO No 5,Cedar Falls,2026-W02,413
+FR0021,Felix Alvarez,valumab south station,Rosewood,2026-W12,267
+FR0022,Wendy Osei,prairie supply co center - rincon verde,Spring Hollow,2026-W02,349
+FR0023,Jonas Patton,prairie supply co   plaza lakeview street,Buena Vista,2026-W09,435
+FR0024,Amir Vance,Stat  ion,Alta Loma,2026-W06,136
+FR0025,Oliver Whitfield,"Cornerstone Mobile Express, La Montana",Palo Seco,2026-W07,202
+FR0026,Dimitri Nandy,HARBOR & VINE #34,Alta Loma,2026-W04,174
+FR0027,Teresa Nandy,N Station,Alta Loma,2026-W04,344
+FR0028,Rosa Reyes,Rio Fresh Market #49,Buena Vista,2026-W02,396
+FR0029,Kelly Kim,cornerstone mobile w plaza,Cedar Falls,2026-W01,235
+FR0030,Kelly Mercer,Harbor & V  ine Station,Buena Vista,2026-W10,118
+FR0031,Oliver Osei,lo  nestra outfitters #22,Maple Grove,2026-W07,263
+FR0032,Wendy Kim,"NorthGate Foods North Express  , Canada Linda",Stonebridge,2026-W06,316
+FR0033,Dana Lee,NORTHGAE FOODS STATION,Nueva Vista,2026-W06,106
+FR0034,Dana Whitfield,"brightmart e crossing, rincon verde",Santa Elena,2026-W12,233
+FR0035,Rosa Mercer,Mar  ket - Rincon Verde,Alta Loma,2026-W07,108
+FR0036,Hector Nandy,#27 - el nino,Crestwood,2026-W03,7
+FR0037,Wendy Choudhury,NorthGate Foods Market - Pena Vista,Oakview,2026-W11,463
+FR0038,Priya Vance,Lonestar Outfitters East Supercenter Juniper Boulevard,Palo Seco,2026-W12,369
+FR0039,Grace Lee,Harbor & Vine Outlet,Mission Hills,2026-W12,123
+FR0040,Grace Kim,"No 27, El Nion",Alta Loma,2026-W04,397
+FR0041,Dana Lee,Rio Fresh Mkt #50 Oak Bo  ulevadr,Los Pinos,2026-W01,285
+FR0042,Wendy Kim,NorrthGate Foods   No 43,Oakview,2026-W02,363
+FR0043,Dimitri Alvarez,LONESTAR OUTFITTE  RS #22 ELM ROAD,Maple Grove,2026-W05,76
+FR0044,Nadia Castillo,Prairie Supply Co #5 Vista Linda St,Cedar Falls,2026-W12,386
+FR0045,Amir Ruiz,Brightmar  t E Center,Maple Grove,2026-W06,196
+FR0046,Dana Brennan,Brightmart Expres  s,El Mirador,2026-W04,279
+FR0047,Kelly Brennan,SOUTH EXPRESS,Maple Grove,2026-W02,276
+FR0048,Nadia Alvarez,Prairie Suppl  y Co East Crossing,El Mirador,2026-W01,366
+FR0049,Dana Lee,#5,Crestwood,2026-W12,444
+FR0050,Jonas Patton,NorthGa  te Foodds No 1 Mission Ave,Spring Hollow,2026-W09,353
+FR0051,Kelly Dunmore,Lonestar Outfitters Station,Rosewood,2026-W04,16
+FR0052,Dimitri Patton,"No 39, Rincon Verde",Palo Seco,2026-W05,93
+FR0053,Dana Alvarez,dr  iftwood supply #2,Lakeside,2026-W03,480
+FR0054,Grace Castillo,Lonestar Outfitters North Crossing - Canada Lind  a,Valle Hermoso,2026-W01,115
+FR0055,Jonas Lee,HARBLR & VINE EAST EXPRESS,Prairie Bend,2026-W07,61
+FR0056,Grace Lee,"Cornerstone Mobile Outlet, Chnada Linda",Los Pinos,2026-W01,484
+FR0057,Amir Lee,HARBOO &   VINE #2,Valle Hermoso,2026-W02,361
+FR0058,Teresa Patton,Lonestar Outfitters #35,Palo Seco,2026-W06,75
+FR0059,Teresa Dunmore,Cornerstnoe Mo  bile No 14,El Mirador,2026-W04,156
+FR0060,Nadia Vance,#50 VALUMAX,Mission Hills,2026-W04,99
+FR0061,Felix Kim,CORNERSTONE MOBILE #46,El Mirador,2026-W01,80
+FR0062,Marcus Nandy,NORTHHGATE FOODS #1,Spring Hollow,2026-W04,217
+FR0063,Dana Castillo,ValuuMax Station,Oakview,2026-W05,37
+FR0064,Amir Castillo,"Harbor & Vine No 9, Rincon Verde",Nueva Vista,2026-W09,493
+FR0065,Priya Reyes,#7,Nueva Vista,2026-W12,30
+FR0066,Sam Osei,Rio Fresh Market Center,Oakview,2026-W02,491
+FR0067,Rosa Lee,NorthG  ate Foods West Center,Valle Hermoso,2026-W01,262
+FR0068,Dana Patton,harbor & vine north outlet,Fairview,2026-W11,400
+FR0069,Dimitri Patton,SOUTH MARKET,Fairview,2026-W05,84
+FR0070,Priya Reyes,Harbor & Vine #22 Birch Boulevard,Nueva Vista,2026-W04,3
+FR0071,Hector Reyes,"HARBOR & VINE #9, RINCON VERDE CEDAR AVE",Nueva Vista,2026-W08,448
+FR0072,Marcus Whitfield,Harbor & Vine #2 Hi  llcrest Rd,Valle Hermoso,2026-W03,430
+FR0073,Jonas Vance,supercente harbor & vine main ave,Oakview,2026-W07,71
+FR0074,Dana Kim,PINECREST TRADERS #15,Oakview,2026-W12,13
+FR0075,Dimitri Osei,CORNERSTONEE MOBILE EAST STATION,Rosewood,2026-W06,268
+FR0076,Amir Patton,HAROR & VINE #2,Valle Hermoso,2026-W12,244
+FR0077,Hector Whitfield,South Market,Los Pinos,2026-W12,191
+FR0078,Marcus Alvarez,CORNERSTONE MOBILE PLAZA MISS  ION ST,Lakeside,2026-W11,36
+FR0079,Hector Nandy,Rio Fresh kt #25 Rio Grande Road,Cedar Falls,2026-W04,89
+FR0080,Sam Nandy,Harbor & Vine West Market - Canada Linda,Lakeside,2026-W10,416
+FR0081,Jonas Dunmore,NorthGate Foods   #47,Cedar Falls,2026-W12,77
+FR0082,Marcus Castillo,ValuMax South uOtlet,Mission Hills,2026-W01,488
+FR0083,Hector Whitfield,northgate foods No 35,Crestwood,2026-W11,395
+FR0084,Kelly Patton,NorthGate FFoods #10 Camino Real A  venue,Spring Hollow,2026-W01,177
+FR0085,Wendy Brennan,"Cornerstone Mobile Outlet, Canada Linda",Los Pinos,2026-W08,401
+FR0086,Marcus Kim,HARBOR&  VINE #35,Crestwood,2026-W08,328
+FR0087,Oliver Vance,NorthGate Foods North Supercenter,Prairie Bend,2026-W10,425
+FR0088,Wendy Vance,Cornerstone Mobile Expresss - La Montana,Palo Seco,2026-W10,222
+FR0089,Marcus Kim,Pinecrest Traders #6,Los Pinos,2026-W06,453
+FR0090,Teresa Vance,Harbor & Viine East Station,Alta Loma,2026-W07,426
+FR0091,Nadia Mercer,Brightmart Outlet,Crestwood,2026-W08,478
+FR0092,Wendy Ruiz,#24,El Mirador,2026-W02,397
+FR0093,Oliver Reyes,Golde  n Era Goods #8,Nueva Vista,2026-W08,365
+FR0094,Felix Patton,PRAIRIE SUPPLY CO #22 JUNIPER   BOULEVARD,Alta Loma,2026-W04,279
+FR0095,Kelly Lee,northgate foods #2  8,Oakview,2026-W09,152
+FR0096,Grace Lee,ValuMax No 4,Stonebridge,2026-W07,52
+FR0097,Grace Osei,Cornerstone Mobile West Crossing,Maple Grove,2026-W10,153
+FR0098,Grace Patton,Lonestar Outfitters East Market Vista Linda Ave,Cedar Falls,2026-W03,147
+FR0099,Oliver Brennan,NorthGate Foods #46,Alta Loma,2026-W05,199
+FR0100,Felix Reyes,Brightmart #48,Fairview,2026-W07,12
+FR0101,Priya Whitfield,Market Caimno Real Ave,Oakview,2026-W03,223
+FR0102,Kelly Reyes,C  ornerstone Mobile No 44 Hillcrest Avenue,Cedar Falls,2026-W12,323
+FR0103,Jonas Ruiz,Lonestar Outfi  tters South Center,Los Pinos,2026-W11,362
+FR0104,Dana Vance,Brightmar tOutlet,Crestwood,2026-W11,173
+FR0105,Dana Dunmore,PRAIRIF SUPPLY CO NORTH EXPRESS,Fairview,2026-W06,213
+FR0106,Dana Vance,"NorthGate Foo  ds #23, Rincon Verde",Los Pinos,2026-W12,168
+FR0107,Marcus Nandy,Prairie Supply Co #35,Los Pinos,2026-W07,390
+FR0108,Rosa Lee,cornerstone mobile supercnter,Stonebridge,2026-W12,230
+FR0109,Rosa Choudhury,MARKKET,Fairview,2026-W11,443
+FR0110,Sam Alvarez,Brightmart #  #36,El Mirador,2026-W09,18
+FR0111,Felix Nandy,#46,Alta Loma,2026-W11,418
+FR0112,Dimitri Whitfield,rio fresh mkt No 48 - canada linda,Mission Hills,2026-W02,323
+FR0113,Rosa Nandy,HARBOR & VINE WEST CROSSING,Oakview,2026-W09,351
+FR0114,Amir Osei,Rio Frseh Mkt No 1,El Mirador,2026-W02,497
+FR0115,Amir Choudhury,valumax #50,Mission Hills,2026-W11,102
+FR0116,Nadia Mercer,Prairie Supply Co East Market,Lakeside,2026-W09,340
+FR0117,Kelly Castillo,CORNERSTONE MOBILE MARKET,Lakeside,2026-W10,355
+FR0118,Oliver Kim,Driftwood Supply #19,Los Pinos,2026-W02,137
+FR0119,Rosa Mercer,Rio Fresh Market Center,Rio Verde,2026-W03,220
+FR0120,Amir Alvarez,No 25 rio grande rd,Cedar Falls,2026-W09,73
+FR0121,Dana Reyes,#31,Stonebridge,2026-W01,121
+FR0122,Marcus Choudhury,Market Cornerstone Mo  bile,Lakeside,2026-W09,123
+FR0123,Wendy Kim,BRIGHTMART PLAZA,Lakeside,2026-W11,80
+FR0124,Dimitri Mercer,Codnerstone Mobile Plaza,Palo Seco,2026-W01,172
+FR0125,Sam Patton,Pinecrest Trad  ers Crossing,Fairview,2026-W07,52
+FR0126,Priya Ruiz,LONES  TAR OUTFITTERS #47 - PENA VISTA,Mission Hills,2026-W09,99
+FR0127,Jonas Nandy,No 3,Spring Hollow,2026-W03,35
+FR0128,Rosa Brennan,#10 Pra  irie Supply Co,Rio Verde,2026-W03,357
+FR0129,Priya Patton,BRIHHTMART SUPERCENTER -   EL NINO,Rio Verde,2026-W04,2
+FR0130,Nadia Alvarez,#13,Prairie Bend,2026-W09,105
+FR0131,Felix Ruiz,No 39,Cedar Falls,2026-W09,151
+FR0132,Marcus Dunmore,Lonestar Outfitters East Station,Nueva Vista,2026-W05,248
+FR0133,Rosa Patton,Brightmart No 36,El Mirador,2026-W06,356
+FR0134,Sam Brennan,QUICKSTOP DEPOT SUPERCENTER,Lakeside,2026-W06,242
+FR0135,Hector Nandy,Harbor & Vine East Station,Alta Loma,2026-W06,79
+FR0136,Oliver Lee,nothgate foods #32,Rosewood,2026-W05,226
+FR0137,Nadia Ruiz,"CORNERSTONE   MOBILE STATION, RINCON VERDE",Buena Vista,2026-W10,346
+FR0138,Oliver Kim,Lonestar Outfitters  West Cro  ssing,Cedar Falls,2026-W04,226
+FR0139,Dimitri Alvarez,W PLAZA RIO FRESH MKT,Rio Verde,2026-W08,398
+FR0140,Oliver Alvarez,Crossing Rio Fresh Market,Santa Elena,2026-W12,226
+FR0141,Felix Lee,vnlumax station oak street,Palo Seco,2026-W09,271
+FR0142,Oliver Brennan,northgate foods s plaza,Alta Loma,2026-W11,273
+FR0143,Wendy Brennan,valumax outlet,Valle Hermoso,2026-W07,133
+FR0144,Priya Patton,Prair  ie SSupply Co #36,Palo Seco,2026-W03,356
+FR0145,Dimitri Alvarez,Rio Fresh Market   #48 - Canada Linda,Mission Hills,2026-W11,103
+FR0146,Felix Dunmore,VALUMAX SOUTH OUTLET,Mission Hills,2026-W01,335
+FR0147,Dana Vance,#16 Prairie Supply Co,Maple Grove,2026-W04,226
+FR0148,Marcus Nandy,brightmart n supercenter,El Mirador,2026-W12,150
+FR0149,Sam Alvarez,valumax #28,Valle Hermoso,2026-W02,486
+FR0150,Sam Nandy,Cornerstone Mobil  e East Express - Canada Linda,Stonebridge,2026-W12,157
+FR0151,Amir Osei,crossing,Rosewood,2026-W04,82
+FR0152,Sam Brennan,Lonestar Outfitters #49,Palo Seco,2026-W10,416
+FR0153,Teresa Mercer,"harbor & vine #40, la mont  ana",Prairie Bend,2026-W09,308
+FR0154,Teresa Osei,Cornerstone Mobile #8 Juniper Boulevard,Mission Hills,2026-W03,261
+FR0155,Oliver Ruiz,rio fresh market #1 sierra st,El Mirador,2026-W04,228
+FR0156,Amir Brennan,QuickStop Depot Cr  ossing,Maple Grove,2026-W02,246
+FR0157,Rosa Ruiz,CORNE  RSTONE MOBILE ECNTER,Oakview,2026-W05,470
+FR0158,Nadia Brennan,NorthGa  te Foods South Plaza,Alta Loma,2026-W01,161
+FR0159,Jonas Alvarez,Prairie Supply Co #50,Fairview,2026-W03,424
+FR0160,Hector Ruiz,"Supercenter, El Nino Brightmart",Rio Verde,2026-W01,133
+FR0161,Dana Osei,"Prairie Supply Co   Crossing, La Montana",Rosewood,2026-W08,369
+FR0162,Amir Reyes,Outlet Harbor & Vine Oa  k Ae,Palo Seco,2026-W03,316
+FR0163,Grace Osei,LONESTAR OUTFIT  TERS CROSSING,Crestwood,2026-W09,387
+FR0164,Oliver Mercer,Brightm  aart No 42,El Mirador,2026-W01,214
+FR0165,Priya Ruiz,VajuMax Ctr,Crestwood,2026-W01,78
+FR0166,Oliver Mercer,No 16,Rosewood,2026-W11,210
+FR0167,Dimitri Mercer,rio fresh   mkt #29,Nueva Vista,2026-W05,327
+FR0168,Sam Osei,#4  3,Oakview,2026-W08,132
+FR0169,Dimitri Patton,ValuMa  x #30 - El ino Mission Avenue,Valle Hermoso,2026-W02,95
+FR0170,Dimitri Osei,CORNERSTONE MOBILE #16,Prairie Bend,2026-W11,292
+FR0171,Felix Dunmore,Harbor & Vine South Outlet,Oakview,2026-W06,451
+FR0172,Nadia Choudhury,Lonestar Outfitters No 17,Cedar Falls,2026-W06,443
+FR0173,Hector Kim,center,Prairie Bend,2026-W07,239
+FR0174,Priya Kim,driftwood supply center,Rosewood,2026-W08,147
+FR0175,Nadia Lee,RIO FRESH MARKET No 29 WESTFIELD RAD,Nueva Vista,2026-W12,294
+FR0176,Rosa Patton,"Lonestar Outfitters Outlet, Rincon Verde",Rosewood,2026-W05,480
+FR0177,Kelly Kim,Harbor & Vin eEast Market - La   Montana,Fairview,2026-W06,373
+FR0178,Teresa Whitfield,lonestar outfitetrs #19,Oakview,2026-W01,301
+FR0179,Dana Ruiz,Cornerstone Mobile No 22 - Canada Linda,Lakeside,2026-W02,432
+FR0180,Grace Lee,brightmaart cente  r,Valle Hermoso,2026-W08,51
+FR0181,Rosa Patton,Prairie Supply Co Station Lakeview Drive,Lakeside,2026-W01,423
+FR0182,Dana Osei,valumax #47,Los Pinos,2026-W08,452
+FR0183,Marcus Whitfield,northgate foods market - pena vista,Oakview,2026-W04,16
+FR0184,Oliver Kim,Brightmart Outlet,Crestwood,2026-W08,265
+FR0185,Dana Osei,ValuMa xCrossing,Santa Elena,2026-W09,349
+FR0186,Jonas Dunmore,West Crossing - Rincon Verde Brightmart,Maple Grove,2026-W02,111
+FR0187,Kelly Dunmore,Prairie Supply Co #12,Prairie Bend,2026-W03,472
+FR0188,Oliver Kim,Brightmar Supercenter,Stonebridge,2026-W05,393
+FR0189,Amir Osei,Gol  den Era Goods #30,Rio Verde,2026-W03,83
+FR0190,Sam Vance,statoin,Alta Loma,2026-W07,366
+FR0191,Jonas Alvarez,"HARBOR & VIINE EXPRESS, LOMA ALTA",Lakeside,2026-W07,319
+FR0192,Jonas Castillo,"Rio resh Market #19, La Montana",Valle Hermoso,2026-W07,428
+FR0193,Wendy Alvarez,valumax market - rincon verde,Alta Loma,2026-W10,245
+FR0194,Amir Castillo,#36,Stonebridge,2026-W04,219
+FR0195,Wendy Patton,RIO FRESH MARKET CROSING,Santa Elena,2026-W07,188
+FR0196,Hector Brennan,"#39, rincon verd  e",Palo Seco,2026-W05,198
+FR0197,Dimitri Choudhury,EAST CROSSING LONESTAR OUTFITTE  RS,Santa Elena,2026-W09,210
+FR0198,Oliver Ruiz,valumax e express,El Mirador,2026-W02,250
+FR0199,Teresa Vance,Harbor & Vine Est Station,Alta Loma,2026-W12,335
+FR0200,Dana Ruiz,NORTHGATE FOODS No 12,Rio Verde,2026-W08,354
+FR0201,Dana Vance,Prairie Supply Co Crosssng - La Montana,Rosewood,2026-W09,355
+FR0202,Dana Reyes,Lonestar Outfitters East Station,Nueva Vista,2026-W05,150
+FR0203,Dimitri Osei,No 1 - el nino,Alta Loma,2026-W06,12
+FR0204,Wendy Castillo,cornerstone obile #43,Palo Seco,2026-W05,392
+FR0205,Dana Reyes,RIO FRESH   MARKET OUTLET,Rio Verde,2026-W11,159
+FR0206,Marcus Brennan,Brightiart S Station,Cedar Falls,2026-W07,471
+FR0207,Sam Nandy,Lonestar Outfitters Crossing Palomino Street,Maple Grove,2026-W09,349
+FR0208,Jonas Nandy,RIO FRESH MKT No 30,Palo Seco,2026-W09,271
+FR0209,Amir Ruiz,"Crossingg, La Montana",Rosewood,2026-W08,457
+FR0210,Kelly Brennan,RIO FRESH MARKET OUTLET,Spring Hollow,2026-W11,41
+FR0211,Priya Kim,va  lumax #48,Santa Elena,2026-W06,347
+FR0212,Rosa Alvarez,NORTHGATE FOODS #23 - RINCON VERDE RIO GRANDE STREET,Los Pinos,2026-W01,211
+FR0213,Hector Brennan,NORTHGATE FOODS #13 - LOMA ALTA,Spring Hollow,2026-W01,223
+FR0214,Grace Whitfield,rio fresh market   #29,Nueva Vista,2026-W03,258
+FR0215,Teresa Ruiz,Harbor & Vine Crossing,Los Pinos,2026-W02,169
+FR0216,Nadia Nandy,#35 Main Boulevard,Crestwood,2026-W09,349
+FR0217,Kelly Patton,South Market Brightmart,Los Pinos,2026-W09,400
+FR0218,Hector Lee,Prairie Supply Co No 21,Oakview,2026-W07,123
+FR0219,Amir Ruiz,nor  thgate foods crossing,Alta Loma,2026-W04,290
+FR0220,Wendy Alvarez,quickstop depot #22,Los Pinos,2026-W12,448
+FR0221,Teresa Ruiz,harbor & vine outlet,Mission Hills,2026-W07,375
+FR0222,Oliver Vance,CORNERSTONE MOBILE MAR  KET,Oakview,2026-W04,226
+FR0223,Dana Lee,Rio Fresh Market Crossing,Palo Seco,2026-W05,211
+FR0224,Dimitri Alvarez,"Harbor &   Vine #9, Rncon Verde Cedar Avenue",Nueva Vista,2026-W12,225
+FR0225,Marcus Osei,brightmart ctr - loma alta,Mission Hills,2026-W11,129
+FR0226,Rosa Ruiz,"HARBOR & VINE EAST MARKEQ, LA MONTANA",Fairview,2026-W11,364
+FR0227,Marcus Reyes,"E PLAZA, CANADA LINDA",Rosewood,2026-W12,454
+FR0228,Kelly Choudhury,No 27 - El iNno,Crestwood,2026-W01,435
+FR0229,Kelly Alvarez,Cornerstone Mobile #4,Buena Vista,2026-W05,140
+FR0230,Dimitri Nandy,"#31, EL NINO RRIO FRESH MARKET",Lakeside,2026-W10,448
+FR0231,Dana Patton,Rio Fresh Market No 34,Prairie Bend,2026-W06,429
+FR0232,Teresa Mercer,Express,Prairie Bend,2026-W11,152
+FR0233,Oliver Whitfield,NorthGate Fods #40,Spring Hollow,2026-W09,284
+FR0234,Hector Whitfield,RIO FRESH MARKET CROSSING,Palo Seco,2026-W05,163
+FR0235,Kelly Castillo,Harbor & Vine #35,Crestwood,2026-W01,181
+FR0236,Hector Ruiz,Lonestar Out  fitters South Station,Valle Hermoso,2026-W01,415
+FR0237,Dana Castillo,Cornerstnoe Mobile #26,Fairview,2026-W04,27
+FR0238,Jonas Castillo,CORNERSTONE MOBILP MKT,Oakview,2026-W01,187
+FR0239,Teresa Ruiz,CORNERSTONE MOBILE #8,Mission Hills,2026-W06,245
+FR0240,Wendy Vance,Prairie Supply Co East Station Cedar kr,Rosewood,2026-W05,272
+FR0241,Nadia Kim,ValuMax Crossing,Santa Elena,2026-W04,124
+FR0242,Wendy Dunmore,Brightmart E C  enter,Maple Grove,2026-W05,206
+FR0243,Felix Kim,Driftwood Supply Supercenter,Stonebridge,2026-W05,190
+FR0244,Kelly Dunmore,EXPRESS,Prairie Bend,2026-W05,73
+FR0245,Rosa Mercer,brightmart e center,Maple Grove,2026-W01,39
+FR0246,Dana Alvarez,Harbor & Vine #40 - La Montana,Prairie Bend,2026-W05,9
+FR0247,Wendy Choudhury,No   45 - el nino,Los Pinos,2026-W04,497
+FR0248,Nadia Lee,NorthGate Foods #5,Crestwood,2026-W01,278
+FR0249,Teresa Nandy,Plaza,Santa Elena,2026-W05,227
+FR0250,Wendy Kim,CORNERSTONE MOBILE PLAZA,Spring Hollow,2026-W02,328
+FR0251,Wendy Nandy,Harbor & Vine No 15 Juniper St,Oakview,2026-W09,52
+FR0252,Teresa Vance,Cornerstone Mobile Market,Fairview,2026-W07,255
+FR0253,Grace Mercer,Lonestar Outitters South Center,Los Pinos,2026-W08,224
+FR0254,Marcus Mercer,Nort  hGate Foods #19 Palomino St,Alta Loma,2026-W07,97
+FR0255,Rosa Kim,pinecrest traders #12,Crestwood,2026-W01,483
+FR0256,Dana Castillo,cornrestone mobile #14,El Mirador,2026-W11,377
+FR0257,Dana Alvarez,plaza,Stonebridge,2026-W06,457
+FR0258,Rosa Ruiz,#20   Lonestar Outfitters,El Mirador,2026-W07,48
+FR0259,Felix Mercer,CornerstoneM obile Station,Mission Hills,2026-W11,475
+FR0260,Nadia Reyes,#32,Stonebridge,2026-W05,267
+FR0261,Grace Vance,Pinecrest Traders #7,Mission Hills,2026-W04,209
+FR0262,Sam Vance,Spuercenter,Oakview,2026-W10,216
+FR0263,Jonas Alvarez,Lonesta  r Outfitters Express,Buena Vista,2026-W10,341
+FR0264,Dana Nandy,VALUMAX STATION,Oakview,2026-W08,83
+FR0265,Hector Alvarez,GOLDEN ERA   GOODS SUPERCENTER,Cedar Falls,2026-W06,168
+FR0266,Teresa Lee,rio fresh market market,Nueva Vista,2026-W09,233
+FR0267,Priya Castillo,#19 - LA MQNTANA,Valle Hermoso,2026-W02,88
+FR0268,Hector Lee,brightmart n  orth supercenter,Los Pinos,2026-W07,408
+FR0269,Felix Kim,No 38,Rio Verde,2026-W04,95
+FR0270,Priya Lee,Harbor & Vine #10,Rio Verde,2026-W06,124
+FR0271,Marcus Alvarez,Harbor & Vine Crossing,Los Pinos,2026-W04,111
+FR0272,Hector Whitfield,prairie supply co east station,Rosewood,2026-W12,136
+FR0273,Wendy Choudhury,Plaza   Cornerstone Mobile,Cedar Falls,2026-W06,245
+FR0274,Dana Nandy,Lonestar Outffitters South Station,Valle Hermoso,2026-W03,495
+FR0275,Marcus Reyes,LONESTAR OUTFITTERS #4  4,Santa Elena,2026-W03,274
+FR0276,Sam Choudhury,No 48,Fairview,2026-W05,92
+FR0277,Amir Choudhury,#14,Stonebridge,2026-W04,242
+FR0278,Oliver Osei,northgate foods north supercenter paseo verde avenue,Prairie Bend,2026-W05,370
+FR0279,Wendy Nandy,Cornerstone Mobile Mkt,Oakview,2026-W08,5
+FR0280,Oliver Nandy,valumax market sunset st,Prairie Bend,2026-W04,260
+FR0281,Jonas Lee,PRAIRIE SUPPLY CO #  22,Alta Loma,2026-W02,385
+FR0282,Oliver Choudhury,harbor & vine mkt elm ave,Valle Hermoso,2026-W10,383
+FR0283,Amir Lee,Crossing Camino Real Rd,Rio Verde,2026-W11,406
+FR0284,Priya Nandy,PRAIRIE SUPPLY CO #17,Nueva Vista,2026-W05,294
+FR0285,Marcus Lee,#42,Crestwood,2026-W02,114
+FR0286,Marcus Brennan,#41,Oakview,2026-W11,223
+FR0287,Jonas Dunmore,"Harbor & Vine #27, Pena Vista",Stonebridge,2026-W08,467
+FR0288,Amir Kim,CROSSING ELM BOULEVARD,Maple Grove,2026-W05,37
+FR0289,Wendy Vance,#36,Stonebridge,2026-W02,60
+FR0290,Jonas Osei,c  ornerstone mobile #4,Buena Vista,2026-W01,165
+FR0291,Oliver Patton,OUTLET,Spring Hollow,2026-W10,257
+FR0292,Felix Kim,DRIFTWOOD SUPPLY STATION,Rio Verde,2026-W12,430
+FR0293,Wendy Castillo,"Rio Fresh Market No 48, Canada Linda",Mission Hills,2026-W02,312
+FR0294,Grace Castillo,NORTHGATE FOODS No 32,Rosewood,2026-W06,252
+FR0295,Rosa Castillo,cornerstone mobile #14,El Mirador,2026-W07,158
+FR0296,Jonas Nandy,NOR  THGATE FOODS #35,Crestwood,2026-W06,25
+FR0297,Wendy Choudhury,prairie supply c #45,Los Pinos,2026-W03,197
+FR0298,Felix Vance,No 10 LAKEVIEW AVENUE,Fairview,2026-W12,335
+FR0299,Marcus Brennan,northgate foods w ctr,Valle Hermoso,2026-W02,352
+FR0300,Oliver Lee,Prairie Supply Co No 40,Fairview,2026-W06,149
+FR0301,Grace Osei,Cro  ssing,Crestwood,2026-W05,312
+FR0302,Dana Kim,LONESTAR OUTFITTERS NORTH CROSSING - CANADA LINDA,Valle Hermoso,2026-W10,326
+FR0303,Felix Dunmore,Harbor & Vine Market - Pena Vista,Valle Hermoso,2026-W06,36
+FR0304,Nadia Patton,Harbor & Vine #34 Camino Real St,Alta Loma,2026-W08,281
+FR0305,Teresa Dunmore,ri  o fresh market #34 sunset ave,Prairie Bend,2026-W05,258
+FR0306,Nadia Reyes,NorthGate Foods #10,Spring Hollow,2026-W06,21
+FR0307,Sam Choudhury,Lonestar Outfitters North Crossing - Canada Linda,Valle Hermoso,2026-W10,286
+FR0308,Rosa Lee,ValuMax S Outlet Sunsett Dr,Mission Hills,2026-W02,346
+FR0309,Amir Alvarez,"BRIGHTMART CENTER, LOMA ALTA",Mission Hills,2026-W06,263
+FR0310,Nadia Brennan,Lone  star Outfitters #39,Los Pinos,2026-W05,316
+FR0311,Teresa Mercer,Cornerstone Mobbile W Station,Cedar Falls,2026-W06,30
+FR0312,Jonas Brennan,NORTHGATE FOODS No 15,Valle Hermoso,2026-W02,264
+FR0313,Grace Castillo,#14 Prairie Supply Co,Buena Vista,2026-W10,28
+FR0314,Hector Mercer,Prairie Supply Co   #28,Prairie Bend,2026-W03,7
+FR0315,Jonas Vance,prairie supply co center maple st,Prairie Bend,2026-W02,365
+FR0316,Teresa Brennan,Harbor & Vine Plaza,Santa Elena,2026-W09,421
+FR0317,Dana Kim,Driftwood Supply #10,Oakview,2026-W08,310
+FR0318,Oliver Mercer,#10,Rio Verde,2026-W07,237
+FR0319,Felix Brennan,brightmart outlet,Alta Loma,2026-W12,240
+FR0320,Dana Osei,#44,Stonebridge,2026-W07,115
+FR0321,Teresa Castillo,"northgate fooods #42,   la montana",Stonebridge,2026-W02,265
+FR0322,Dimitri Mercer,Prairie Supply Co E aMrket,Lakeside,2026-W12,457
+FR0323,Dana Whitfield,valumax #5,Nueva Vista,2026-W09,143
+FR0324,Marcus Whitfield,EXPRESS LONESTAR OUTFITTERS,El Mirador,2026-W03,103
+FR0325,Priya Nandy,rio fresh market outlet sunset blvd,Rio Verde,2026-W08,470
+FR0326,Amir Patton,Rio Fresh   Mkt Supercneter,Rio Verde,2026-W04,474
+FR0327,Jonas Mercer,Harbor & Vine N   Outlet,Fairview,2026-W12,397
+FR0328,Oliver Reyes,PRAIRIE SUPPLY CCO NORTH EXPRESS,Fairview,2026-W09,492
+FR0329,Sam Ruiz,Harbor &  Vine #50,Prairie Bend,2026-W09,352
+FR0330,Nadia Alvarez,Prairie Supply Co Plaza,Buena Vista,2026-W08,433
+FR0331,Priya Alvarez,cornerstone mobile No 22 - canada linda,Lakeside,2026-W05,233
+FR0332,Dana Reyes,ValuM  ax #17 Camino Real Boulevard,Rio Verde,2026-W05,212
+FR0333,Kelly Kim,Prairie Supply   Co No 15 - Loma Alta,Maple Grove,2026-W03,443
+FR0334,Marcus Vance,RIO FRRESH MARKET CTR,Rio Verde,2026-W09,199
+FR0335,Oliver Alvarez,Lonestar Outfitters Express,Prairie Bend,2026-W10,189
+FR0336,Oliver Mercer,Brigh  tmart South Mkt,Los Pinos,2026-W01,471
+FR0337,Jonas Vance,PRAIRIE   SUPPLY CO #36,Palo Seco,2026-W11,391
+FR0338,Oliver Dunmore,Brightmart S Supercenter - El Nino,Los Pinos,2026-W07,42
+FR0339,Nadia Osei,Cornurstone Mobile #30,Oakview,2026-W11,335
+FR0340,Wendy Ruiz,Lonestar Outfitters No 36,Stonebridge,2026-W07,267
+FR0341,Hector Brennan,Harbor &   Vine #17,Valle Hermoso,2026-W05,182
+FR0342,Oliver Whitfield,"Cornerstone Mobile #48, Canada Linda",Valle Hermoso,2026-W06,356
+FR0343,Kelly Brennan,Harbor   & Vine #22,Nueva Vista,2026-W03,341
+FR0344,Teresa Ruiz,Rio Fresh Mkt E Outlet -   Canada Linda,Los Pinos,2026-W11,11
+FR0345,Felix Nandy,Express,Spring Hollow,2026-W04,124
+FR0346,Dana Mercer,"CORNERSTON EMOBILE EAST EXPRESS, CANADA LINDA WEST  FIELD STREET",Stonebridge,2026-W05,409
+FR0347,Oliver Nandy,No 35,Crestwood,2026-W03,372
+FR0348,Amir Castillo,HARBOR & VINE STAT  ION,Cedar Falls,2026-W09,67
+FR0349,Wendy Kim,cornerstone mobige #16,Prairie Bend,2026-W09,65
+FR0350,Grace Dunmore,Prairie Supply Co No 22,Alta Loma,2026-W05,340
+FR0351,Rosa Castillo,CORNERSTONE MOBILE EAST EXPRESS - CANADA LINDA,Stonebridge,2026-W08,394
+FR0352,Kelly Mercer,brightm  art #32 hillcrest avenue,Lakeside,2026-W04,413
+FR0353,Felix Lee,Harbor & Vine East Expres  s,Prairie Bend,2026-W05,295
+FR0354,Dana Whitfield,Harbor & Vine E Mkt - La Montana,Fairview,2026-W07,58
+FR0355,Oliver Osei,brightmart markket - la montana,Valle Hermoso,2026-W09,295
+FR0356,Dana Castillo,PRAIRIE SUPPLY CO EAST STATION,Rosewood,2026-W02,51
+FR0357,Hector Nandy,CENTEER VALUMAX,Crestwood,2026-W10,179
+FR0358,Jonas Brennan,NorthGate Foods #26,El Mirador,2026-W09,449
+FR0359,Teresa Dunmore,Prairie Supply Co Center - Rincon   Verdde,Buena Vista,2026-W09,183
+FR0360,Nadia Nandy,Brightmart Express - Loma Alta,Santa Elena,2026-W10,236
+FR0361,Oliver Choudhury,VALUMAX STATION OAK SS  T,Palo Seco,2026-W07,171
+FR0362,Kelly Choudhury,golden era goods crossing,Los Pinos,2026-W06,256
+FR0363,Felix Vance,"Rio Fresh Market #19, La Montana Sierra Drive",Valle Hermoso,2026-W01,224
+FR0364,Kelly Lee,northgate foods north supercenter,Prairie Bend,2026-W04,346
+FR0365,Jonas Ruiz,Lonehtar Outfitters Sta  tion,Rosewood,2026-W03,230
+FR0366,Oliver Nandy,NORTHGATE FOODS   #21,Santa Elena,2026-W10,383
+FR0367,Priya Mercer,"Rio Fresh Market Supercenter, El Nino",Maple Grove,2026-W12,478
+FR0368,Hector Alvarez,BRIGGHTMART   EXPRESS,Crestwood,2026-W08,364
+FR0369,Priya Reyes,EAST PLAZA BRIGHTMART,Palo Seco,2026-W12,165
+FR0370,Priya Osei,harbor & vinestation,Lakeside,2026-W08,9
+FR0371,Sam Dunmore,Rio Fresh Market Mkt,Nueva Vista,2026-W11,403
+FR0372,Marcus Brennan,Brightmart No 36 Sie  rra Blvd,El Mirador,2026-W09,373
+FR0373,Rosa Whitfield,VALUMAX MARKET,Prairie Bend,2026-W05,202
+FR0374,Wendy Brennan,Cornerstone Mobile No 1 Oak   Rd,Rosewood,2026-W01,36
+FR0375,Jonas Mercer,PRAIRIE SUPPLY CO #39 VISTA LINDA DRIVE,Cedar Falls,2026-W05,480
+FR0376,Kelly Ruiz,cornerstone mobile center maple road,Oakview,2026-W05,139
+FR0377,Dimitri Vance,PRAIRIE SUPPLY CO No 45,Los Pinos,2026-W11,271
+FR0378,Teresa Choudhury,No 50 NorthhGate Foods,El Mirador,2026-W10,78
+FR0379,Kelly Brennan,No 26,Fairview,2026-W01,150
+FR0380,Dimitri Whitfield,BRIGHTMART #18,Maple Grove,2026-W12,78
+FR0381,Grace Nandy,harbor & vine outlet,Mission Hills,2026-W01,176
+FR0382,Jonas Whitfield,Cornerstone oMbile No 13,Prairie Bend,2026-W09,83
+FR0383,Oliver Osei,CORNERSTONE MOBILE PLA  ZA,Cedar Falls,2026-W06,440
+FR0384,Hector Vance,BRIGHTMART PLA  ZA,Lakeside,2026-W02,100
+FR0385,Felix Kim,cornerstone mobile center,Prairie Bend,2026-W01,196
+FR0386,Dimitri Castillo,valumax #1 - el nino,Alta Loma,2026-W01,269
+FR0387,Kelly Nandy,Lonestar Outfitters Crossing,Rosewood,2026-W07,105
+FR0388,Rosa Lee,#40 PRAIRIE SUPPLY CO,Fairview,2026-W09,329
+FR0389,Amir Reyes,Lonestar Outfitters No 49,Palo Seco,2026-W04,384
+FR0390,Hector Brennan,No 37,Rio Verde,2026-W04,459
+FR0391,Oliver Alvarez,#  9 - RINCON VERDE,Nueva Vista,2026-W05,163
+FR0392,Teresa Dunmore,RIO FRESH MARKET #35,Buena Vista,2026-W01,164
+FR0393,Kelly Mercer,HARBOR & VINE W CENTER - LA MONTANA,Los Pinos,2026-W09,336
+FR0394,Nadia Patton,prairie supply co east statio  n,Rosewood,2026-W08,113
+FR0395,Rosa Osei,Prairie hupply Co #21,Oakview,2026-W08,370
+FR0396,Grace Whitfield,Lonestar Outfitters No 17,Cedar Falls,2026-W12,256
+FR0397,Priya Lee,Lonestar Outfitters Crossing,Maple Grove,2026-W10,51
+FR0398,Marcus Mercer,Harbor & Vine Outlet JuniperR oa  d,Mission Hills,2026-W11,299
+FR0399,Felix Patton,Lonestar Outfitters #  27 - El Nino,Alta Loma,2026-W11,196
+FR0400,Marcus Ruiz,Station - Pena Vista,Santa Elena,2026-W03,434
+FR0401,Teresa Vance,Brightmart N Outlet,El Mirador,2026-W12,284
+FR0402,Dimitri Kim,"PRAIRIE SUPPLY CO No 3, EL NINO",Prairie Bend,2026-W06,337
+FR0403,Dimitri Lee,#42,Valle Hermoso,2026-W11,404
+FR0404,Dana Dunmore,Lonestar Outfitters #45,Prairie Bend,2026-W12,204
+FR0405,Amir Castillo,PRAIRIE SUPPL  Y CO #9,Valle Hermoso,2026-W10,167
+FR0406,Kelly Nandy,Golden Era Goods   #26,Santa Elena,2026-W11,47
+FR0407,Marcus Castillo,Prairie Supply Co #45,Los Pinos,2026-W04,17
+FR0408,Priya Vance,Brightmart N Supercenter,Los Pinos,2026-W01,377
+FR0409,Hector Reyes,Lonestar Outfitters North Market Paseo Verde Ave,Rio Verde,2026-W11,43
+FR0410,Nadia Whitfield,"NorthGate Foods N Express, Canada Linda Cedar vAe",Stonebridge,2026-W11,266
+FR0411,Hector Ruiz,valumax south outlet,Mission Hills,2026-W02,318
+FR0412,Nadia Dunmore,harbor & vine express   - loma alta,Lakeside,2026-W06,370
+FR0413,Dimitri Lee,Lonestar Outfitters Center,Los Pinos,2026-W01,172
+FR0414,Dana Brennan,RIO FRESH MARKET WEST PLAZA,Rio Verde,2026-W12,301
+FR0415,Felix Reyes,brightmart express - loma alta,Santa Elena,2026-W10,486
+FR0416,Hector Nandy,"Rio Fresh Market W Market, Rincon Verde",Rosewood,2026-W03,111
+FR0417,Jonas Brennan,Lonestar Outfitters Supercenter - Loma Alta,Mission Hills,2026-W01,397
+FR0418,Jonas Whitfield,East Plaza,Palo Seco,2026-W07,143
+FR0419,Dana Brennan,"harbor & vine e mkt, la montana mission road",Fairview,2026-W05,100
+FR0420,Felix Alvarez,Brrightmart W Crossing - Rincon Verde,Maple Grove,2026-W11,182
+FR0421,Priya Alvarez,prai  rie suppyl co #13,Oakview,2026-W04,49
+FR0422,Wendy Brennan,NORTHGATE FOODS CROSSING,Buena Vista,2026-W10,354
+FR0423,Dimitri Choudhury,RIO FRESH MKT #49,Buena Vista,2026-W03,216
+FR0424,Sam Ruiz,Cornerstone Mobile Market,Oakview,2026-W12,208
+FR0425,Wendy Dunmore,NORTHGATE FOODS STATION,Oakview,2026-W05,226
+FR0426,Amir Lee,rio fresh mkt market vista linda st,Fairview,2026-W08,193
+FR0427,Nadia Osei,S MKT,Los Pinos,2026-W11,439
+FR0428,Amir Mercer,ValuMax East Express,El Mirador,2026-W12,189
+FR0429,Sam Dunmore,"ValuMax #27, El Nino",Crestwood,2026-W04,291
+FR0430,Oliver Dunmore,#40,Spring Hollow,2026-W12,25
+FR0431,Rosa Osei,northgate foodss supercenter - rincon verde,Nueva Vista,2026-W10,317
+FR0432,Marcus Choudhury,cornerstone mobile #31 westfield blvd,Oakview,2026-W06,360
+FR0433,Rosa Alvarez,rio fresh mkt crossing,Palo Seco,2026-W12,241
+FR0434,Jonas Whitfield,#10,Spring Hollow,2026-W08,306
+FR0435,Teresa Ruiz,Express Elm St,Santa Elena,2026-W12,93
+FR0436,Felix Reyes,#22,Nueva Vista,2026-W02,358
+FR0437,Wendy Kim,No 18,Stonebridge,2026-W04,226
+FR0438,Sam Alvarez,Brightmart #18 Paseo Verde Blvd,Maple Grove,2026-W10,32
+FR0439,Hector Mercer,PRAIRIE SUPPLY CO #35,Los Pinos,2026-W03,332
+FR0440,Kelly Dunmore,Prairie SupplyCo Ctr,Prairie Bend,2026-W12,482
+FR0441,Priya Castillo,No 48 - Canada Linda Cornerstone Mobile,Valle Hermoso,2026-W07,212
+FR0442,Teresa Alvarez,northgate foods #4,Rio Verde,2026-W08,55
+FR0443,Nadia Nandy,east station camino real blvd,Lakeside,2026-W06,187
+FR0444,Hector Brennan,EXPRESS,Crestwood,2026-W04,209
+FR0445,Hector Choudhury,Lonestar Outfitters South Station,Valle Hermoso,2026-W10,337
+FR0446,Sam Alvarez,Prairie Supply Co S  tatiion,Lakeside,2026-W05,422
+FR0447,Sam Nandy,LONESTAR OUTFITTERS  SOUTH CROSSING,Santa Elena,2026-W01,498
+FR0448,Kelly Osei,Brightmart North Plaza,Maple Grove,2026-W02,475
+FR0449,Rosa Osei,BRIGTHMART OUTLET,Maple Grove,2026-W08,248
+FR0450,Rosa Dunmore,EAST OUTLET,Palo Seco,2026-W07,469
+FR0451,Teresa Patton,#46,Spring Hollow,2026-W03,95
+FR0452,Hector Patton,BRIGHTMART PL  AZA,Santa Elena,2026-W03,16
+FR0453,Marcus Dunmore,prairin   supply co #12,Prairie Bend,2026-W11,472
+FR0454,Kelly Osei,brightm  art ctr,Valle Hermoso,2026-W03,251
+FR0455,Wendy Vance,"valumax center, loma alta",Stonebridge,2026-W01,157
+FR0456,Grace Dunmore,#40 Rio Fresh Mkt Oak Drive,Santa Elena,2026-W05,282
+FR0457,Hector Whitfield,Cornerstone Mobile Plaza,Lakeside,2026-W04,259
+FR0458,Hector Nandy,Pinecrest Traders Mkt,Oakview,2026-W04,305
+FR0459,Amir Alvarez,rio fresh mkt No 36,Valle Hermoso,2026-W08,131
+FR0460,Rosa Dunmore,PRAIRIE SUPPLY CO  No 27,Lakeside,2026-W09,45
+FR0461,Sam Vance,NrothGate Foods #8,Fairview,2026-W02,141
+FR0462,Rosa Nandy,valumax   south outlet,Mission Hills,2026-W02,292
+FR0463,Dimitri Alvarez,Market - Pena Vista,Valle Hermoso,2026-W12,55
+FR0464,Nadia Choudhury,Prairie Suppyl Co Station,Lakeside,2026-W06,317
+FR0465,Amir Lee,driftwood supply express,Stonebridge,2026-W09,114
+FR0466,Nadia Vance,NORTHGATE FOODS   #43,Oakview,2026-W05,168
+FR0467,Amir Brennan,Brightmart #13,Alta Loma,2026-W04,265
+FR0468,Dana Mercer,#34,Prairie Bend,2026-W08,417
+FR0469,Wendy Alvarez,cornerston emobile No 1,Rosewood,2026-W10,12
+FR0470,Grace Ruiz,HARBOR &   VINE PLAZA,Mission Hills,2026-W07,156
+FR0471,Hector Osei,ValuM  a xCenter,Alta Loma,2026-W09,37
+FR0472,Kelly Lee,Cornerston eMobile Mkt,Oakview,2026-W11,129
+FR0473,Sam Mercer,Cornerstone Mobile East Express - Canada Linda,Stonebridge,2026-W05,152
+FR0474,Marcus Ruiz,Cornerstone Mobile Supercenter,Stonebridge,2026-W03,242
+FR0475,Wendy Reyes,DRIFTWOOD SUPPLY CTR,Valle Hermoso,2026-W05,174
+FR0476,Sam Lee,"RIO FRESH MKT No 48, CAN  ADA LINDA",Mission Hills,2026-W07,147
+FR0477,Felix Dunmore,#35 LONETSAR OUTFITTERS,Palo Seco,2026-W06,342
+FR0478,Jonas Mercer,NorthhGate Foods #26,El Mirador,2026-W11,257
+FR0479,Dimitri Mercer,#9,Nueva Vista,2026-W06,259
+FR0480,Priya Castillo,NorthGate Foods No 16 Mission Rd,Rosewood,2026-W03,399
+FR0481,Wendy Alvarez,"VALUMAX #41, RINCON VERDE",Valle Hermoso,2026-W10,95
+FR0482,Nadia Whitfield,crossing valumax,Santa Elena,2026-W08,479
+FR0483,Hector Reyes,harbor & vine east station,Alta Loma,2026-W03,408
+FR0484,Priya Alvarez,plaza,Lakeside,2026-W11,272
+FR0485,Jonas Castillo,Harbor & Vine S   Outlet,Oakview,2026-W01,142
+FR0486,Priya Brennan,Cornerstone Mobile West Station,Cedar Falls,2026-W02,333
+FR0487,Wendy Kim,prairie supply c station,Lakeside,2026-W05,354
+FR0488,Grace Kim,west crossing,Cedar Falls,2026-W04,345
+FR0489,Wendy Kim,RIO FRESH MARKET CENTER PASEO VERDE AVENUE,Oakview,2026-W10,176
+FR0490,Grace Vance,ValuMax Outlet,Valle Hermoso,2026-W08,60
+FR0491,Hector Whitfield,DRIFTWOOD SUPPLY OUTLET,Stonebridge,2026-W04,116
+FR0492,Grace Vance,driftwood supply supercenter,Buena Vista,2026-W07,236
+FR0493,Grace Reyes,Golden Era Goods   #29,Maple Grove,2026-W05,28
+FR0494,Sam Brennan,ValuMax #42,Valle Hermoso,2026-W05,180
+FR0495,Teresa Patton,NorthGate Foods #23 - Rincon Verde Rio Grande Street,Los Pinos,2026-W12,16
+FR0496,Oliver Choudhury,pinecrest traders No 12,Rio Verde,2026-W08,340
+FR0497,Wendy Vance,"Lonestar Outfitter  s #13, Loma Alta",Maple Grove,2026-W11,415
+FR0498,Sam Lee,N  o 39 VALUMAX,Crestwood,2026-W05,292
+FR0499,Rosa Kim,ValuMax #27 - El Nino,Crestwood,2026-W09,228
+FR0500,Marcus Mercer,pinecrest trader  s #4,Rosewood,2026-W12,199
+FR0501,Marcus Ruiz,HARBOR & VINE WEST EXPRESS,Stonebridge,2026-W10,477
+FR0502,Marcus Ruiz,Brightmartt Center,Prairie Bend,2026-W02,53
+FR0503,Sam Osei,Cornerstone Mobile Market,Fairview,2026-W10,285
+FR0504,Priya Lee,ValuMax So  uth Station,Rosewood,2026-W03,442
+FR0505,Sam Kim,BRIGHTMART CROSSING,Cedar Falls,2026-W07,89
+FR0506,Teresa Dunmore,N  ORTHGATE FOODS SOUTH PLAZA,Alta Loma,2026-W04,300
+FR0507,Felix Alvarez,Prairie Supply Co #18,Stonebridge,2026-W08,277
+FR0508,Amir Mercer,RIO FRESH MKT #50,Los Pinos,2026-W11,122
+FR0509,Felix Reyes,"SUPERCENTER, RINCON VERDE",Nueva Vista,2026-W07,130
+FR0510,Felix Brennan,rio fresh market center,Alta Loma,2026-W08,257
+FR0511,Hector Nandy,Prairie Supply C  o N Crossing,Buena Vista,2026-W06,143
+FR0512,Jonas Brennan,#  46,Spring Hollow,2026-W03,384
+FR0513,Teresa Kim,ValuMax #10 Lakeview Avenue,Fairview,2026-W05,344
+FR0514,Teresa Vance,Rio Fresh Market 4#5 - El Nino,Los Pinos,2026-W03,31
+FR0515,Grace Ruiz,Prairie Supply Co No 27,Lakeside,2026-W04,493
+FR0516,Oliver Osei,nortlgate foo  ds s plaza,Alta Loma,2026-W08,20
+FR0517,Felix Reyes,Prairie Supply Co #5,Cedar Falls,2026-W04,387
+FR0518,Kelly Castillo,Prairie Supply Co #9,Valle Hermoso,2026-W02,358
+FR0519,Grace Kim,NORTHGATE FODOS #8,Fairview,2026-W12,175
+FR0520,Dana Kim,#39,Cedar Falls,2026-W10,325
+FR0521,Felix Nandy,H  ARBOR & VINE No 43,Alta Loma,2026-W12,287
+FR0522,Sam Alvarez,No  rthGate Foods #26,El Mirador,2026-W12,498
+FR0523,Nadia Choudhury,Golden Era Goods No 23,Rosewood,2026-W02,329
+FR0524,Priya Nandy,CORNER  STONE MOBILE #41,Oakview,2026-W10,437
+FR0525,Teresa Alvarez,Plzza,Stonebridge,2026-W07,310
+FR0526,Rosa Patton,HARBOR & VINE STATION,Buena Vista,2026-W06,109
+FR0527,Dimitri Dunmore,VauMax Express,Oakview,2026-W10,305
+FR0528,Rosa Kim,harbor & vine market,Valle Hermoso,2026-W10,6
+FR0529,Amir Whitfield,Harbor & Vine   West Center - La Montana,Los Pinos,2026-W06,41
+FR0530,Rosa Patton,SStation,Valle Hermoso,2026-W02,356
+FR0531,Sam Castillo,valumaax outlet,Valle Hermoso,2026-W09,181
+FR0532,Grace Nandy,"Prairie Supply Co Market, Loma Alta",Cedar Falls,2026-W12,499
+FR0533,Dimitri Lee,valumax station  -pena vista,Santa Elena,2026-W02,490
+FR0534,Rosa Alvarez,Crrossing,Cedar Falls,2026-W03,205
+FR0535,Dimitri Kim,LONEKTAR OU  TFITTERS No 49,Palo Seco,2026-W04,395
+FR0536,Wendy Castillo,NORTHGATE FOODS #5,Crestwood,2026-W06,453
+FR0537,Felix Osei,CENTER VALUMAX,Prairie Bend,2026-W09,208
+FR0538,Grace Reyes,#11 -L oma Al  ta,Nueva Vista,2026-W05,69
+FR0539,Hector Whitfield,"loneestar outfi  tters #13, loma alta",Maple Grove,2026-W04,74
+FR0540,Wendy Patton,"cornerstone mobile outlet, canada linda",Los Pinos,2026-W08,253
+FR0541,Marcus Castillo,lonestar outfitters   #48,Fairview,2026-W09,39
+FR0542,Oliver Choudhury,valuma  x No 5,Nueva Vista,2026-W01,421
+FR0543,Amir Castillo,Rio Fresh Mk  t #11,Los Pinos,2026-W04,128
+FR0544,Marcus Kim,NorthGate Foods Station,Oakview,2026-W08,340
+FR0545,Grace Mercer,valumax #44 hillcrest rrd,Stonebridge,2026-W07,304
+FR0546,Rosa Choudhury,LONESTAR OUTFITTERS #45,Prairie Bend,2026-W06,109
+FR0547,Marcus Vance,Brightm  art N Plaza,Maple Grove,2026-W08,140
+FR0548,Rosa Whitfield,Hrbor & Vine   Crossing,Los Pinos,2026-W03,307
+FR0549,Wendy Dunmore,lonestar outfitters south crossing,Santa Elena,2026-W12,101
+FR0550,Grace Alvarez,ValuMax #41 - Rincon Verde,Valle Hermoso,2026-W06,363
+FR0551,Sam Lee,Cornerstone MobileE ast Express - Canada Linda,Stonebridge,2026-W07,300
+FR0552,Dana Dunmore,Cornerstone Mobile No   37,Los Pinos,2026-W08,470
+FR0553,Marcus Vance,Prairie   Supply Co #35,Los Pinos,2026-W09,89
+FR0554,Dana Nandy,prairie supply co No 26  -rincon verde,Fairview,2026-W07,303
+FR0555,Sam Patton,Prairie Supply C  o #26 - Rincon Verde,Fairview,2026-W02,108
+FR0556,Kelly Kim,NorthGate   Foods W Center,Valle Hermoso,2026-W08,459
+FR0557,Felix Lee,NorthGate Foods No 15 Juniper Dr,Valle Hermoso,2026-W04,480
+FR0558,Felix Vance,RIO FRESH MARKET CENTER,Rio Verde,2026-W11,244
+FR0559,Nadia Whitfield,NOORTHGATE FOODS No 7,Nueva Vista,2026-W11,170
+FR0560,Dana Vance,LONESTAR OUTFITTERS SOUTH CROSSING HILLCR  EST AVE,El Mirador,2026-W07,104
+FR0561,Teresa Mercer,North Ou  tlet,El Mirador,2026-W02,61
+FR0562,Rosa Kim,#42,Crestwood,2026-W01,199
+FR0563,Dimitri Castillo,Cornerstone M  obile Mkt,Oakview,2026-W07,22
+FR0564,Priya Brennan,HARBOR & VINE NORTH   OUTLET WESAFIELD BLVD,Fairview,2026-W02,66
+FR0565,Wendy Whitfield,Harbor & Vine East Express,Prairie Bend,2026-W05,250
+FR0566,Wendy Osei,NORTHGATE FOODS CROSSING,El Mirador,2026-W10,62
+FR0567,Felix Kim,Rio Fresh Market Station - La Montana Lakeview Street,Los Pinos,2026-W11,238
+FR0568,Amir Patton,valumax #47,Los Pinos,2026-W08,81
+FR0569,Oliver Ruiz,Harbor & Vine Express,El Mirador,2026-W02,218
+FR0570,Kelly Nandy,RIO FRESH MKT #11 CAMINO REAL STREET,Los Pinos,2026-W02,106
+FR0571,Grace Castillo,B  RIGHTMART EXPRESS ELM ST,Santa Elena,2026-W06,457
+FR0572,Kelly Mercer,LONESTAR OUTFITTERS #17,Cedar Falls,2026-W07,391
+FR0573,Priya Choudhury,Cornerstone Mobile#48 - Canad  a Linda Vista Linda Street,Valle Hermoso,2026-W12,193
+FR0574,Oliver Kim,"valumax w crossing, rincon verde",Buena Vista,2026-W08,495
+FR0575,Grace Osei,rio fresh market #30,Palo Seco,2026-W09,212
+FR0576,Oliver Vance,lonestar outfitters #40 sunset boulevaard,El Mirador,2026-W10,78
+FR0577,Dana Brennan,LONESTAR OUTFITTERS STATION,Rosewood,2026-W08,333
+FR0578,Sam Mercer,Harbor & Vine East Express,Prairie Bend,2026-W04,225
+FR0579,Kelly Lee,CORNERSTO  NE MOBILE #3,El Mirador,2026-W11,447
+FR0580,Dana Osei,Cornerstone Mobiel Plaza,Spring Hollow,2026-W12,318
+FR0581,Felix Lee,northgate foods station,Spring Hollow,2026-W05,162
+FR0582,Dana Ruiz,HARBOR & VINE #31 JUNIPER RD,Stonebridge,2026-W01,71
+FR0583,Hector Nandy,NorthGate Foods No 8,Fairview,2026-W05,244
+FR0584,Oliver Dunmore,"LONESTARR OUTFITTERS #27, EL NINO",Alta Loma,2026-W09,108
+FR0585,Amir Lee,prairie supply co #13,Oakview,2026-W08,408
+FR0586,Rosa Vance,BRIGHTMART EAST EXP  RESS - LA MONTANA OAK BOULEVARD,Alta Loma,2026-W05,469
+FR0587,Nadia Choudhury,NorthGate Foods #14,Prairie Bend,2026-W10,416
+FR0588,Grace Castillo,Harbor & Vine #10,Rio Verde,2026-W06,67
+FR0589,Dana Patton,lonestar outfitters south crossing,Stonebridge,2026-W06,323
+FR0590,Oliver Whitfield,lonestar outfitt  es #40,El Mirador,2026-W02,212
+FR0591,Nadia Lee,northgate foods #39 - r  incon verde,Palo Seco,2026-W09,500
+FR0592,Dana Whitfield,Golden Era Goods Plaza,El Mirador,2026-W10,375
+FR0593,Dana Alvarez,LONESTAR OUTFITTERS CROSSING,Rosewood,2026-W01,163
+FR0594,Dimitri Patton,No 3,Fairview,2026-W02,84
+FR0595,Wendy Nandy,CORNERSTONE MOBILE No 33 - RINCON VERDE,Oakview,2026-W09,95
+FR0596,Oliver Ruiz,harbor & vinne station,Oakview,2026-W10,315
+FR0597,Dimitri Patton,BRGHTMART EXPRESS,Santa Elena,2026-W03,169
+FR0598,Kelly Mercer,Harbor & Vien #35,Crestwood,2026-W09,332
+FR0599,Jonas Patton,NorthGa  te Foods Station,Oakview,2026-W02,376
+FR0600,Dimitri Mercer,ValuMax #5 Palomino Avenue,Nueva Vista,2026-W10,17

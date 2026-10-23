@@ -1,0 +1,21 @@
+report_row_id,store_text,city,store_id,pass,score,confidence
+FR0001,Brightmart Expreess,El Mirador,ST0065,5,0.9895,high
+FR0002,PRAIRIE SUPPL CO No 24,El Mirador,ST0189,3,1.0,high
+FR0003,valumax #2,Mission Hills,ST0010,1,1.0,high
+FR0004,Harbor & Vine W Express,Stonebridge,ST0304,2,1.0,high
+FR0005,cornerstone mobile otulet   - canada linda,Los Pinos,ST0051,4,0.6667,low
+FR0006,Cornerstone Mobile Maret,Fairview,ST0251,5,0.992,high
+FR0007,#49,Buena Vista,ST0391,3,0.9,medium
+FR0008,Praii  re Supply Co #10,Rio Verde,ST0077,3,0.9,medium
+FR0009,HARBOR & VI  NE WEST CROSSING BIRCHA VENUE,Oakview,ST0208,0,1.0,high
+FR0010,EAST EXPRESS - LA MONT  ANA BRIGHTMART,Alta Loma,ST0121,4,0.5714,low
+FR0011,No 3 - El Nino Prairrie Supply Co,Prairie Bend,ST0021,3,1.0,high
+FR0012,Cornerstone Mobile No 43,Palo Seco,ST0339,2,1.0,high
+FR0013,Brightmar South Station,Cedar Falls,ST0193,4,0.5,low
+FR0014,valumaz #4,Los Pinos,ST0026,5,0.9429,medium
+FR0015,"LONESTAR OUTFITTERS SUPERCENTER, LOMA ALTA",Mission Hills,ST0086,1,1.0,high
+FR0016,Lonestar Outfitters Express,El Mirador,ST0238,1,1.0,high
+FR0017,NorthGate Foods #23 - Rincon Verde Rio Grande Street,Los Pinos,ST0180,3,1.0,high
+FR0018,brightmart market - la montana,Valle Hermoso,ST0129,1,1.0,high
+FR0019,Rio Fresh Mkt #29,Nueva Vista,ST0231,2,1.0,high
+FR0020,PRAIRIE SUPPLY CO No 5,Cedar Falls,ST0037,3,1.0,high
